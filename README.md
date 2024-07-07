@@ -33,7 +33,8 @@ g++ -std=c++20 canvas.cpp -o canvas
 
 # Configuration File Format
 
-<canvas_width> <canvas_height> <output_filename> <empty_space_symbol>
+<canvas_width> <canvas_height> <output_filename> <empty_space_symbol>  
+
 <shape_name> <shape_parameters>
 ...
 
