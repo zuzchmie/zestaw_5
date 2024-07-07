@@ -39,13 +39,14 @@ g++ -std=c++20 canvas.cpp -o canvas
 ...
 
 ## Shapes and parameters:
-Rectangle: Rectangle <width> <height> <x> <y> <symbol>  
+Rectangle: Rectangle '<width>' '<height>' '<x>' '<y>' '<symbol>'
 
-Square: Square <side_length> <x> <y> <symbol>  
+Square: Square '<side_length>' '<x>' '<y>' '<symbol>'
 
-Triangle: Triangle <base> <height> <x> <y> <symbol>  
+Triangle: Triangle '<base>' '<height>' '<x>' '<y>' '<symbol>'
 
-Circle: Circle <radius> <x> <y> <symbol>  
+Circle: Circle '<radius>' '<x>' '<y>' '<symbol>'
+ 
 
 
 # Files in the repository
