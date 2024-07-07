@@ -1,0 +1,7 @@
+40 40 file.txt  .
+Rectangle 2 2 20 10 #
+Square 3 5 20 *
+Circle 4 5 15 ^
+Triangle 6 5 20 20 *
+
+
